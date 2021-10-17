@@ -1445,6 +1445,7 @@ html {
 	   position: relative;
 	   box-shadow: 0.2px 0.2px 1px 0.5px rgb(180,180,180);
 	   width: 30px;
+	   top: 2px;
    }
   .switch_default + label:after{
 	  background-color: #fff;
