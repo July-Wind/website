@@ -140,22 +140,22 @@ ul li{
     cursor: pointer;
 }
 .audio-prev{
-    background-image: url('https://yun.pcno.cn/www/ju/prev.png');
+    background-image: url('./image/prev.png');
 }
 .audio-next{
-    background-image: url('https://yun.pcno.cn/www/ju/next.png');
+    background-image: url('./image/next.png');
 }
 .audio-play{
-    background-image: url('https://yun.pcno.cn/www/ju/play.png');
+    background-image: url('./image/play.png');
 }
 .audio-stop{
-    background-image: url('https://yun.pcno.cn/www/ju/pause.png');
+    background-image: url('./image/pause.png');
 }
 .audio-menu{
-    background-image: url('https://yun.pcno.cn/www/ju/menu.png');
+    background-image: url('./image/menu.png');
 }
 .audio-volume{
-    background-image: url('https://yun.pcno.cn/www/ju/volume.png');
+    background-image: url('./image/volume.png');
 }
 .audio-select > div + div{
     margin-left: 10px;
