@@ -208,6 +208,9 @@
     .container {
         display: none!important;
     }
+    .joe_footer {
+        border: none;
+    }
 }
 @media (max-width: 1210px) {
     .site-girl {
