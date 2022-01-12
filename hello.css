@@ -126,7 +126,7 @@
 
 @media (min-width:768px) {
 	.footer-fav .site-girl .girl {
-		left: -200px
+		left: -105px !important
 	}
 }
 
