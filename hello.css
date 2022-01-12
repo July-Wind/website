@@ -206,11 +206,11 @@
 
 @media (max-width: 900px) {
     .container {
-        display: none !important;
+        display: none!important;
     }
 }
 @media (max-width: 1210px) {
     .site-girl {
-        display: none !important;
+        display: none!important;
     }
 }
