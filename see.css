@@ -209,7 +209,7 @@
         display: none!important;
     }
     .joe_footer {
-        border: none;
+        border: none!important;
     }
 }
 @media (max-width: 1210px) {
