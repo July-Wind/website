@@ -208,7 +208,7 @@
     .container {
         display: none !important;
     }
-
+}
 @media (max-width: 1210px) {
     .site-girl {
         display: none !important;
