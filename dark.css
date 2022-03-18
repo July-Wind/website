@@ -68,7 +68,7 @@ body.dark-theme {
     font-weight: 800;
 }
 body.dark-theme {
-	background-image: url(./image/login_screen_bg_201230.png);
+	background-image: url(https://om.gtimg.cn/om/om_2.0/images/login_screen_bg_201230.png);
 	color: #a9a9b3;
 	transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease, opacity 0.2s ease;
 }
